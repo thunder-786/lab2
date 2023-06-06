@@ -1,2 +1,1 @@
-# lab2
-This is for Google Course Labs.
+I am editing the README file. Adding some more details about the project description.
